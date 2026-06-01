@@ -3,7 +3,7 @@ import os
 import json
 
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY", "AIzaSyC76rko8UuGEymopyy8Q1Vgdop_J7jJ2zQ")
-TARGET_CHANNEL_ID = "UC7Wyuc7HQXbC70GGqVLl9mQ"
+TARGET_CHANNEL_ID = "UCvzTJH6G9bH5nCQ1Hfb8nGg"
 
 MODEL_NAME = "cardiffnlp/twitter-roberta-base-sentiment-latest"
 MAX_TOKEN_LENGTH = 512
